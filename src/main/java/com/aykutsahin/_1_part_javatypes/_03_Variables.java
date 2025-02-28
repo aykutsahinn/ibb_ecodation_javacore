@@ -1,6 +1,6 @@
 package com.aykutsahin._1_part_javatypes;
 
-public class _02_Variables {
+public class _03_Variables {
     public static void main(String[] args) {
 
         int schoolNumber = 25;
