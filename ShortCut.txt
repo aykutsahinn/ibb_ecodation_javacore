@@ -1,0 +1,4 @@
+Single Comment   => Ctrl+/
+Multiple Comment => Shift+Ctrl+/
+Public static void => //psvm+tab
+System.out => sout+tab
