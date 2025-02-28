@@ -1,6 +1,6 @@
 package com.aykutsahin._1_part_javatypes;
 
-public class _03_Variables {
+public class _02_Variables {
     public static void main(String[] args) {
 
         int schoolNumber = 25;
@@ -15,5 +15,13 @@ public class _03_Variables {
 
         int $schoolNumber = 75;
         System.out.println($schoolNumber);
+
+        // yazmayalım
+        float totalSalary = 14.5355f;
+        System.out.println(totalSalary);
+
+        // SABIT
+        final int MAX_STUDENTS = 100;
+        System.out.println(MAX_STUDENTS);
     }
 }

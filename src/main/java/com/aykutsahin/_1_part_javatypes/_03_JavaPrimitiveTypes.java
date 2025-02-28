@@ -1,6 +1,6 @@
 package com.aykutsahin._1_part_javatypes;
 
-public class _02_JavaPrimitiveTypes {
+public class _03_JavaPrimitiveTypes {
     public static void main(String[] args) {
         // Primitive Types: 8 tanedir. null değer alamaz
 
