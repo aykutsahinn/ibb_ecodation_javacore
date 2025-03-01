@@ -1,7 +1,5 @@
 package com.aykutsahin._1_part_javatypes;
 
-import com.sun.jdi.ByteType;
-
 public class _04_2_JavaWrapperTypes {
     public static void main(String[] args) {
         // PRIMITIVE TYPE
@@ -18,7 +16,7 @@ public class _04_2_JavaWrapperTypes {
         boolean primitiveTypeBoolean=true;
         char primitiveTypeChar='a';
 
-        ///////////////////////////////////////////////////////////////////
+        ///////////////////////////////////////////////////////
         // WRAPPER TYPE (new varsa)
        /* Byte wrapperTypeByte = new byte)127);
         Short wrapperTypeShort = new Short((short)32767) ;
