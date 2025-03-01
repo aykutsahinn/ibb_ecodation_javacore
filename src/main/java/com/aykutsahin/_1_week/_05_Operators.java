@@ -1,4 +1,4 @@
-package com.aykutsahin;
+package com.aykutsahin._1_week;
 
 public class _05_Operators {
     public static void main(String[] args) {

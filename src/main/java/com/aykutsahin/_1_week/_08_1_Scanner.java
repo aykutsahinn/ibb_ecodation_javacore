@@ -1,4 +1,4 @@
-package com.aykutsahin._1_part_javatypes;
+package com.aykutsahin._1_week;
 import java.util.Scanner;
 
 public class _08_1_Scanner {

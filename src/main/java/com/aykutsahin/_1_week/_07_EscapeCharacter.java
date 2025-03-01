@@ -1,4 +1,4 @@
-package com.aykutsahin._1_part_javatypes;
+package com.aykutsahin._1_week;
 
 public class _07_EscapeCharacter {
 
