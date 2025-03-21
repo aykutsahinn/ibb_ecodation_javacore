@@ -1,6 +1,6 @@
 package com.aykutsahin._5_week;
 
-import com.aykutsahin.utils.EStudentType;
+import com.aykutsahin.dto.EStudentType;
 
 import java.io.Serializable;
 import java.time.LocalDate;
